@@ -1,15 +1,7 @@
+---
+layout: default
+---
+
 <p>歡迎來到我的文章總覽，這裡記錄了我的各項專案開發心得與個人隨筆。</p>
 
-<ul class="post-list">
-  {% for post in site.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% include home-content.html %}
