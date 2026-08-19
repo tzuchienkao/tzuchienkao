@@ -1,0 +1,25 @@
+{% for post in site.posts %}
+
+    
+    {{ post.date | date: "%Y-%m-%d" }}
+    
+    
+    {% if post.project %}
+    
+        {{ post.project }}
+    
+    {% endif %}
+
+    {% if post.external_url %}
+    
+    
+        {{ post.title }} ↗
+    
+    {% else %}
+    
+    
+        {{ post.title }}
+    
+    {% endif %}
+
+{% endfor %}
