@@ -16,7 +16,7 @@
       <!-- 超連結 -->
       {% if post.external_url %}
         <!-- 外部專案文章：加 <a> 標籤並設定 target="_blank" (開新分頁) -->
-        <a href="{{ post.external_url }}" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">
+        <a href="{{ post.external_url }}" target="_blank" rel="noopener noreferrer">
           {{ post.title }} ↗
         </a>
       {% else %}
