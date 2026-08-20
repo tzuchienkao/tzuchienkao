@@ -18,4 +18,5 @@
 
 ### 最新發布文章
 
-<!-- BLOG-POST-LIST:START -->- 📌 [當 AI 開始接得回來，我開始思考要怎麼教它工作](https://tzuchienkao.github.io/money-snap/2026/08/19/money-snap-v0.4.0.html) (YYYY-00-DD)- 📌 [我開始發現，和 AI 一起開發，真正重要的是讓它找得到「現在」](https://tzuchienkao.github.io/money-snap/2026/08/13/money-snap-v0.4.0.html) (YYYY-00-DD)- 📌 [我花了 12 個小時，和 AI 一起完成了一個產品](https://tzuchienkao.github.io/money-snap/2026/07/18/money-snap-v0.1.0.html) (YYYY-00-DD)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
