@@ -5,3 +5,6 @@ timezone: Asia/Taipei
 
 # 如果有 GA4 也可以順便貼上
 # google_analytics: G-7KPZYJD6YS
+
+plugins:
+  - jekyll-feed
