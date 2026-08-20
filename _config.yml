@@ -1,7 +1,9 @@
 title: "tzuchienkao"
-description: "彙整所有專案開發隨筆"
+description: "所有專案開發隨筆總匯"
 theme: minima
 timezone: Asia/Taipei
+url: "https://tzuchienkao.github.io"
+baseurl: "/tzuchienkao" # 👈 請補上這行！
 
 # 如果有 GA4 也可以順便貼上
 # google_analytics: G-7KPZYJD6YS

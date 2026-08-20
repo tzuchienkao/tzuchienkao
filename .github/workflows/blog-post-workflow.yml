@@ -20,7 +20,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # Jekyll 預設會在主站根目錄產生 feed.xml
-          feed_list: "https://tzuchienkao.github.io/feed.xml"
+          feed_list: "https://tzuchienkao.github.io/tzuchienkao/feed.xml"
           max_post_count: 5
           # 自訂呈現樣式格式（支援 Markdown 語法）
           template: "- 📌 [$title]($url) ($date)"
