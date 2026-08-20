@@ -5,7 +5,7 @@
       <!-- 左側：創作者資訊 -->
       <div>
         <p style="margin: 0; font-weight: bold;">tzuchienkao</p>
-        <p style="margin: 0; font-size: 0.85em; color: #666;">這裡記錄了我的各項專案開發心得與個人隨筆</p>
+        <p style="margin: 0; font-size: 0.85em; color: #666;">這裡記錄了我的各項專案開發心得與個人隨筆。最近更新日：{{ site.posts.first.date | date: "%Y-%m-%d" }}</p>
       </div>
 
       <!-- 右側：社群/外部連結 -->
@@ -17,7 +17,7 @@
     </div>
 
     <!-- 版權聲明 -->
-    <div style="margin-top: 15px; border-top: 1px solid #eee; padding-top: 10px; font-size: 0.8em; color: #999; text-align: center;">
+    <div style="padding-top: 10px; font-size: 0.8em; color: #999; text-align: center;">
       © {{ 'now' | date: "%Y" }} tzuchienkao. Powered by Jekyll & GitHub Pages.
     </div>
   </div>
