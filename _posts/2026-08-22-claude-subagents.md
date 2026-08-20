@@ -4,7 +4,6 @@ title: "當需求開始變複雜，我讓 Claude 開了三個 Subagent 分頭行
 description: "當我準備讓 Claude Code 動手時，我面臨了一次相對複雜且多面向的需求。"
 date: 2026-08-22
 tags: [Claude CLI, Claude Code, Claude Design, Subagent, Side Project]
-project: Fitness Studio CMS
 ---
 
 # **當需求開始變複雜，我讓 Claude 開了三個 Subagent 分頭行動**
