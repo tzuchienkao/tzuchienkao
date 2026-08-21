@@ -1,0 +1,11 @@
+---
+---
+
+@import "minima";
+
+/* 隱藏手機版漢堡選單開關與圖示 */
+.nav-trigger,
+.menu-icon,
+label[for="nav-trigger"] {
+  display: none !important;
+}
