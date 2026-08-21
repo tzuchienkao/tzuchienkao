@@ -1,4 +1,4 @@
-# ʜᴇʟʟᴏ ◡̈ I'm tzuchienkao
+# ʜᴇʟʟᴏ ：） I'm tzuchienkao
 
 歡迎光臨！我在這裡記錄各項專案開發心得與個人隨筆。
 
