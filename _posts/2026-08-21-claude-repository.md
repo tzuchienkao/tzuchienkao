@@ -4,6 +4,7 @@ title: "當我接手了一個夥伴用 AI 蓋好的專案"
 description: "面對這個全新的專案，我沒有急著去翻程式碼，而是決定先請 AI 幫我做第一件事。"
 date: 2026-08-21
 tags: [Claude CLI, Side Project]
+project: "預約管理系統"
 ---
 
 # 當我接手了一個夥伴用 AI 蓋好的專案
