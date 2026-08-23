@@ -19,6 +19,7 @@
 ### ✐☡ 近期文章
 
 <!-- BLOG-POST-LIST:START -->
+- [當需求開始變複雜，我讓 Claude 開了三個 Subagent 分頭行動](https://tzuchienkao.github.io/tzuchienkao/2026/08/22/claude-subagents.html) (`2026-08-21`)
 - [當我接手了一個夥伴用 AI 蓋好的專案](https://tzuchienkao.github.io/tzuchienkao/2026/08/21/claude-repository.html) (`2026-08-20`)
 - [當 AI 開始接得回來，我開始思考要怎麼教它工作](https://tzuchienkao.github.io/money-snap/2026/08/19/money-snap-v0.4.0.html) (`2026-08-18`)
 - [我開始發現，和 AI 一起開發，真正重要的是讓它找得到「現在」](https://tzuchienkao.github.io/money-snap/2026/08/13/money-snap-v0.4.0.html) (`2026-08-12`)
