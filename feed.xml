@@ -23,7 +23,7 @@ layout: null
           <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
         {% endif %}
 
-        <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       </item>
     {% endfor %}
   </channel>
