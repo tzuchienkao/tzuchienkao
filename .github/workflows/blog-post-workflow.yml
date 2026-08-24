@@ -25,3 +25,4 @@ jobs:
           # 自訂呈現樣式格式（支援 Markdown 語法）
           template: "$newline- [$title]($url) (`$date`)"
           date_format: "yyyy-mm-dd"
+          timezone: "Asia/Taipei"
