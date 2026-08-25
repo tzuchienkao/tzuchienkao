@@ -10,3 +10,4 @@ baseurl: "/tzuchienkao" # 👈 請補上這行！
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
