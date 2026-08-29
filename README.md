@@ -19,8 +19,8 @@
 ### ✐☡ 近期文章
 
 <!-- BLOG-POST-LIST:START -->
+- [從 GitHub Pages 到 Cloudflare Pages：嘗試新工具與雙平台建置](https://tzuchienkao.github.io/tzuchienkao/2026/08/29/static-pages.html) (`2026-08-29`)
 - [三度參與 TUA 年會：在環環相扣的齒輪中，看見現場執行與 AI 的交會](https://tzuchienkao.github.io/tzuchienkao/2026/08/23/2026-tua-annual.html) (`2026-08-23`)
 - [當需求開始變複雜，我讓 Claude 開了三個 Subagent 分頭行動](https://tzuchienkao.github.io/tzuchienkao/2026/08/22/claude-subagents.html) (`2026-08-22`)
 - [當我接手了一個夥伴用 AI 蓋好的專案](https://tzuchienkao.github.io/tzuchienkao/2026/08/21/claude-repository.html) (`2026-08-21`)
-- [當 AI 開始接得回來，我開始思考要怎麼教它工作](https://tzuchienkao.github.io/money-snap/2026/08/19/money-snap-v0.4.0.html) (`2026-08-19`)
-- [我開始發現，和 AI 一起開發，真正重要的是讓它找得到「現在」](https://tzuchienkao.github.io/money-snap/2026/08/13/money-snap-v0.4.0.html) (`2026-08-13`)<!-- BLOG-POST-LIST:END -->
+- [當 AI 開始接得回來，我開始思考要怎麼教它工作](https://tzuchienkao.github.io/money-snap/2026/08/19/money-snap-v0.4.0.html) (`2026-08-19`)<!-- BLOG-POST-LIST:END -->
